@@ -16,3 +16,11 @@ This is my last edit
 Thank you!
 
 We have made changes to a new branch
+
+#Results
+
+BMI > 25 = "Overweight"
+
+BMI < 18 = "Underweight"
+
+BMI between 18 and 25 = "Normal"
